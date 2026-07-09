@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mattylll.github.io/bf-2026-q3-03-auction-finance/sitemap.xml
